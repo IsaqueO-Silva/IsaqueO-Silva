@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/46305573/121423082-4526da80-c946-11eb-968a-a0d11d029aa9.png)
 ![image](https://user-images.githubusercontent.com/46305573/121423235-6b4c7a80-c946-11eb-86c8-e6fce1b3fb72.png)
 
-### ⚡ Fun fact: ...My personal best for deadlift is 330lbs(150Kg) for 3 reps 
+⚡ Fun fact: ...My personal best for deadlift is 330lbs(150Kg) for 3 reps 
 
 <!--
 **IsaqueO-Silva/IsaqueO-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
