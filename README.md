@@ -10,7 +10,6 @@
 ![image](https://user-images.githubusercontent.com/46305573/121417090-e8282600-c93f-11eb-9cdb-52efcb4e8cd7.png)
 ![image](https://user-images.githubusercontent.com/46305573/121417154-f6764200-c93f-11eb-9dea-2f26f28e0fb4.png)
 ![image](https://user-images.githubusercontent.com/46305573/121417172-faa25f80-c93f-11eb-9568-29812edd1076.png)
-![image](https://user-images.githubusercontent.com/46305573/121417201-01c96d80-c940-11eb-83e6-80df14efef62.png)
 
 <!--
 **IsaqueO-Silva/IsaqueO-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
