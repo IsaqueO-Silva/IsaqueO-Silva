@@ -1,6 +1,6 @@
 ### Hey y'all 😀
 
-### Isaque Ordonhes Silva - Back-End Web Dev(... but also a fullstack sometimes)
+### Isaque Ordonhes Silva - Fullstack-End Web Dev
 
 ### My current stack 🖥
 ![image](https://user-images.githubusercontent.com/46305573/121416994-d0e93880-c93f-11eb-8358-80e2ff161db6.png)
